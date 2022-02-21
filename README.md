@@ -1,0 +1,2 @@
+# kaguracans
+bot wa
